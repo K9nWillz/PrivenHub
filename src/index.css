@@ -1,0 +1,20 @@
+@import "tailwindcss";
+
+@theme {
+  --color-priven-black: #050505;
+  --color-priven-surface: #111311;
+  --color-priven-lime: #00FF66;
+  --color-priven-lime-hover: #00e65c;
+  --color-priven-white: #F5F5F5;
+  --color-priven-muted: #2A302A;
+  --color-priven-muted-text: #8A9A8A;
+  --color-priven-gold: #FFC700;
+  --color-priven-red: #FF3333;
+  --color-priven-red-hover: #e62e2e;
+}
+
+@layer base {
+  body {
+    @apply bg-priven-black text-priven-white antialiased selection:bg-priven-lime selection:text-priven-black;
+  }
+}

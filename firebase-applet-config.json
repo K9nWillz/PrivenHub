@@ -1,0 +1,12 @@
+{
+  "projectId": "priven-hub",
+  "appId": "1:38128553064:web:42dd1126779ff6ac5affdd",
+  "apiKey": "AIzaSyDXFiDG73YwQuX2vhbiYzFcpLtWxdUzQ1w",
+  "authDomain": "priven-hub.firebaseapp.com",
+  "firestoreDatabaseId": "(default)",
+  "storageBucket": "priven-hub.firebasestorage.app",
+  "messagingSenderId": "38128553064",
+  "measurementId": "G-0MKBVVTLJV",
+  "oAuthClientId": "",
+  "recaptchaSiteKey": ""
+}
